@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @quangnm2293
-- 👀 I’m interested in Web devolop
-- 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs
+- 👋 Hi, I’m Quang
+- 👀 I’m interested in Web devolop, position FrontEnd
+- 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs/Reactjs
+- Here some small projects i have done after learning:
+# MINT Lala website: https://mintlala.herokuapp.com/
+# My Portfolio: https://portfolio-ebon-two.vercel.app/
 - 📫 Email: quangmn2293@gmail.com Phone: 0942884512
 
 <!---
