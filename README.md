@@ -1,6 +1,9 @@
 ### 👋 Hi, I’m Quang
-### 👀 I’m interested in Web devolop, position FrontEnd
-### 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs/Reactjs
+- 👀 I’m interested in Web devolop, position FrontEnd.
+- 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs/Reactjs.
+- Open and frendly
+- Love to learn new things, specially related Frontend stacks.
+- Enjoy working with ReactJS, NextJS.
 ### Here some small projects i have done after learning:
 ## MINT Lala website: https://mintlala.herokuapp.com/
 #### repo: https://github.com/quangnm2293/mintlala_20
