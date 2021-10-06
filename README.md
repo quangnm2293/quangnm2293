@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Quang
-- 👀 I’m interested in Web devolop, position FrontEnd
-- 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs/Reactjs
-- Here some small projects i have done after learning:
-# MINT Lala website: https://mintlala.herokuapp.com/
-# My Portfolio: https://portfolio-ebon-two.vercel.app/
-- 📫 Email: quangmn2293@gmail.com Phone: 0942884512
+### 👋 Hi, I’m Quang
+### 👀 I’m interested in Web devolop, position FrontEnd
+### 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs/Reactjs
+### Here some small projects i have done after learning:
+## MINT Lala website: https://mintlala.herokuapp.com/
+## My Portfolio: https://portfolio-ebon-two.vercel.app/
+### 📫 Email: quangmn2293@gmail.com Phone: 0942884512
 
 <!---
 quangnm2293/quangnm2293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
