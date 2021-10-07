@@ -3,12 +3,14 @@
 - 🌱 I’m currently learning HTML/CSS/Javascript/Nodejs/Reactjs.
 - Open and frendly
 - Love to learn new things, specially related Frontend stacks.
-- Enjoy working with ReactJS, NextJS.
+- Enjoy working with `ReactJS, NextJS`.
 ### Here some small projects i have done after learning:
 ## MINT Lala website: https://mintlala.herokuapp.com/
 #### repo: https://github.com/quangnm2293/mintlala_20
 ## My Portfolio: https://portfolio-ebon-two.vercel.app/
 #### repo: https://github.com/quangnm2293/Portfolio
+## Redux toolkit, createAsyncThunk, redux-persist: https://meal-store.vercel.app/
+#### repo: https://github.com/quangnm2293/meal-store
 ### 📫 Email: quangmn2293@gmail.com Phone: 0942884512
 
 <!---
