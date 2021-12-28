@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Quang
-- 👀 I’m interested in Web devolop, position `FrontEnd`.
-- 🌱 I’m currently learning `HTML/CSS/Javascript/Nodejs/Reactjs`.
+- 👀 I’m a `FrontEnd` web developer.
+- 🌱 I’m currently work at `difisoft`.
 - Open and frendly
 - Love to learn new things, specially related Frontend stacks.
 - Enjoy working with `ReactJS, NextJS`.
