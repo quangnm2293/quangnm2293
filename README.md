@@ -1,16 +1,13 @@
 ### 👋 Hi, I’m Quang
 - 👀 I’m a `FrontEnd` web developer.
-- 🌱 I’m currently work at `difisoft`.
+- 🌱 I’m currently work as a freelancer.
 - Open and frendly
 - Love to learn new things, specially related Frontend stacks.
 - Enjoy working with `ReactJS, NextJS`.
-### Here some small projects i have done after learning:
-## MINT Lala website: https://mintlala.herokuapp.com/
-#### repo: https://github.com/quangnm2293/mintlala_20
-## My Portfolio: https://portfolio-ebon-two.vercel.app/
-#### repo: https://github.com/quangnm2293/Portfolio
-## Redux toolkit, createAsyncThunk, redux-persist: https://meal-store.vercel.app/
-#### repo: https://github.com/quangnm2293/meal-store
+Over three years of web development experience, I have years of coding experience in component-based UI framework like ReactJs/NextJS, Typescript with using so many moden technologies: Redux - Saga, Socket, CSS framework: MUI, ANTD, Bootstrap, Tailwindcss. Strong ability to work independently and as part of a team to deliver high-quality, scalable, and reliable solutions.
+● 1 years of NodeJS experience
+● 3 years of HTML/CSS/Jquery experience ● 1 years of NextJS experience
+● 3 years of ReactJS experience
 ### 📫 Email: quangmn2293@gmail.com Phone: 0942884512
 
 <!---
